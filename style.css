@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-6.menubar ul li a {
+    color: white;
+}
+.col-6.menubar ul li a:hover {
+    color: red;
+    transition: all 0.5s;
+}
+.col-5 {
+    font-size: 13px;
+}
