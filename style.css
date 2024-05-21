@@ -11,6 +11,10 @@
     color: red;
     transition: all 0.5s;
 }
-.col-5 {
+.col-6.footer-section-2 {
     font-size: 13px;
+}
+.col-6.col-6.footer-section-2 p img {
+    height: 20px;
+    width: 20px;
 }
