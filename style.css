@@ -66,3 +66,15 @@
 .page-text-design {
     padding: 44px;
 }
+
+
+
+span.first-letter-capitalize {
+    float: left;
+    font-size: 4.5rem;
+    line-height: 3.75rem;
+    margin: .5rem .5rem 0 0;
+    -webkit-initial-letter: 3;
+    initial-letter: 3;
+    font-weight: 700;
+}
