@@ -84,3 +84,12 @@ span.first-letter-capitalize {
     column-rule: 1px dashed red;
     column-gap: 40px;
 }
+
+.card-body h5 a {
+    text-decoration: none;
+    color: darkgray;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
